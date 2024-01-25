@@ -7,3 +7,8 @@ This repository contains the source code for the Quantum Non-Restoring Divider, 
 ## Paper Reference
 
 If you use or refer to this code in your work, please cite the corresponding paper.
+
+## Acknowledgments
+
+Special thanks to Eugene @eugenelzj99, our collaborator in code development.
+
